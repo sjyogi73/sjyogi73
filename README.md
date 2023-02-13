@@ -8,10 +8,9 @@
 - 🍵 I belive, a perfect cup of coffee can be the ultimate solution for any stress
 - 📫 How to reach me: sjyogi73@gmail.com
 
-<img align="right" alt="GIF" src="data-science.gif" width="500"/>
 
 
--## Things that I execute in free time ⚡
+## Things that I execute in free time ⚡
 - ⭐️ While Coding, Listening Music and developing useful code.
 - :closed_lock_with_key: Bug Bounty Hunting.
 - :closed_lock_with_key: Bug Bounty Hunting.
