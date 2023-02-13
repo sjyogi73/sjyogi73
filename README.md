@@ -7,10 +7,10 @@
 - 💬 Ask me anything about Web development & Python bot integration
 - 🍵 I belive, a perfect cup of coffee can be the ultimate solution for any stress
 - 📫 How to reach me: sjyogi73@gmail.com
--
+- 🛥️ To be calm is the highest achievement of the self.
 
 <img align="right" alt="GIF" src="data-science.gif" width="500"/>
--
+
 
 ## Things that I execute in free time ⚡
 
