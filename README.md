@@ -14,7 +14,7 @@
 
 - ⭐️ While Coding, Listening Music and developing useful code.
 - :closed_lock_with_key: Bug Bounty Hunting.
-- :computer: Just loved to Explore new Tech Stacks.💻
+- :computer: Just loved to Explore new Tech Stacks.
 - 🌌 ☄️ 🔭 Learning Physics and getting knowledge about Case investigation,Astronomy is My Night Job.
   <img align="center" src="connect.png?raw=true"/>
 
@@ -50,6 +50,9 @@
 <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sjyogi73&langs_count=8&theme=radical&title_color=8E2DE2&text_color=fff"/>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sjyogi73&show_icons=true&bg_color=30,e94393,6e25db&title_color=fff&text_color=fff&icon_color=8E2DE2">
 <img src="https://github-profile-trophy.vercel.app/?username=sjyogi73&theme=monokai" />
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sjyogi73&icon=1&color=1)](https://visitcount.itsvg.in)
