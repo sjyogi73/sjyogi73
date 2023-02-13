@@ -32,19 +32,19 @@
 ![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
 ![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
 <br>
-![python](https://img.shields.io/badge/Python%205-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
-![React](https://img.shields.io/badge/ReactJS%205-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
-![NodeJS](https://img.shields.io/badge/NodeJS%205-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)
+![python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
+![React](https://img.shields.io/badge/ReactJS-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
+![NodeJS](https://img.shields.io/badge/NodeJS-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)
 ![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 <br>
-![.Net](https://img.shields.io/badge/.Net%205-grey?style=for-the-badge&logo=.net&logoColor=white&labelColor=8E2DE2)
-![VB.Net](https://img.shields.io/badge/vb.Net%205-grey?style=for-the-badge&logo=vb.net&logoColor=white&labelColor=8E2DE2)
-![C++](https://img.shields.io/badge/C++%205-grey?style=for-the-badge&logo=C%2B%2B&logoColor=white&labelColor=8E2DE2)
-![MicrosoftSQLServer](https://img.shields.io/badge/MicrosoftSQLServer%205-grey?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&labelColor=8E2DE2)
-![MySQL](https://img.shields.io/badge/MySQL%205-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2) 
-![Oracle](https://img.shields.io/badge/Oracle%205-grey?style=for-the-badge&logo=oracle&logoColor=white&labelColor=8E2DE2)
+![.Net](https://img.shields.io/badge/.Net-grey?style=for-the-badge&logo=.net&logoColor=white&labelColor=8E2DE2)
+![VB.Net](https://img.shields.io/badge/vb.Net-grey?style=for-the-badge&logo=vb.net&logoColor=white&labelColor=8E2DE2)
+![C++](https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=C%2B%2B&logoColor=white&labelColor=8E2DE2)
+![MicrosoftSQLServer](https://img.shields.io/badge/MicrosoftSQLServer-grey?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&labelColor=8E2DE2)
+![MySQL](https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2) 
+![Oracle](https://img.shields.io/badge/Oracle-grey?style=for-the-badge&logo=oracle&logoColor=white&labelColor=8E2DE2)
 
 <img align="center" src="git.png?raw=true"/>
 
