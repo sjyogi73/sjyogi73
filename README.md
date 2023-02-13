@@ -12,7 +12,6 @@
 
 
 ## Things that I execute in free time ⚡
-
 - ⭐️ While Coding, Listening Music and developing useful code.
 - :closed_lock_with_key: Bug Bounty Hunting.
 - :closed_lock_with_key: Bug Bounty Hunting.
