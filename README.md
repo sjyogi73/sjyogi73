@@ -33,24 +33,25 @@
 ![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
 <br>
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=8E2DE2) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=8E2DE2) 
+![React](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react&logoColor=8E2DE2) 
+![NodeJS](https://img.shields.io/badge/node.js-grey?style=for-the-badge&logo=node.js&logoColor=8E2DE2) 
 ![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 <br>
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=8E2DE2)
+![.Net](https://img.shields.io/badge/.NET-grey?style=for-the-badge&logo=.net&logoColor=8E2DE2)
 ![C++](https://img.shields.io/badge/-C++-grey?style=for-the-badge&logo=C%2B%2B&logoColor=white&labelColor=8E2DE2)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=8E2DE2) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=8E2DE2) 	2DE2)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=8E2DE2)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-grey?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=8E2DE2) 
+![MySQL](https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql&logoColor=8E2DE2) 
+![Oracle](https://img.shields.io/badge/Oracle-grey?style=for-the-badge&logo=oracle&logoColor=8E2DE2)
 
 <img align="center" src="git.png?raw=true"/>
 
 <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sjyogi73&langs_count=8&theme=radical&title_color=8E2DE2&text_color=fff"/>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sjyogi73&show_icons=true&bg_color=30,e94393,6e25db&title_color=fff&text_color=fff&icon_color=8E2DE2">
 <img src="https://github-profile-trophy.vercel.app/?username=sjyogi73&theme=monokai" />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=sjyogi73" id="counter">
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=sjyogi73&icon=1&color=1)](https://visitcount.itsvg.in)
